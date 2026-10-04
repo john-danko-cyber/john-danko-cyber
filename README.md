@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm John Danko 👋
 
-<!--
-**john-danko-cyber/john-danko-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level cybersecurity analyst near Philadelphia, focused on SOC and blue team work.
 
-Here are some ideas to get you started:
+- 🎓 B.S. in Computer Information Science, Cybersecurity specialization, Gwynedd Mercy University (Cum Laude, 2024)
+- 🛡️ Competed in the DoD Cyber Sentinel Skills Challenge (Correlation One, June 2025): forensics, malware and reverse engineering, networking and recon, OSINT, and web security
+- 🔍 Interested in incident response, log analysis, and digital forensics
+- 🌱 Currently building a home lab and working through hands-on SOC labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Nessus, FTK Imager, Autopsy, John the Ripper, pfSense  
+**Languages:** Python, Bash, C++, Java, SQL, HTML, JSON
+
+📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber)
