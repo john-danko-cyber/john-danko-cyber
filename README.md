@@ -1,6 +1,6 @@
 # Hi, I'm John Danko 👋
 
-Entry-level cybersecurity analyst near Philadelphia, focused on SOC and blue team work.
+Cybersecurity analyst near Philadelphia, focused on SOC and blue team work.
 
 - 🎓 B.S. in Computer Information Science, Cybersecurity specialization, Gwynedd Mercy University (Cum Laude, 2024)
 - 🛡️ Competed in the DoD Cyber Sentinel Skills Challenge (Correlation One, June 2025): forensics, malware and reverse engineering, networking and recon, OSINT, and web security
