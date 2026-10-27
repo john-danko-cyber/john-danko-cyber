@@ -1,4 +1,4 @@
-# Hi, I'm John Danko
+# John Danko
 
 Cybersecurity graduate near Philadelphia pursuing an SOC Analyst role, with hands-on practice in SIEM, log analysis, network traffic analysis, and incident response.
 
