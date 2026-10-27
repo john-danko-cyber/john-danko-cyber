@@ -11,4 +11,4 @@ Cybersecurity graduate near Philadelphia pursuing an SOC Analyst role, with hand
 **Frameworks:** NIST SP 800-61, NIST CSF, MITRE ATT&CK, Cyber Kill Chain  
 **Languages:** Python, Bash, C++, Java, SQL, HTML, JSON
 
-📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber) | [Portfolio Website](https://john-danko.netlify.app)
+📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber) | [Portfolio Website](https://john-danko.netlify.app) | [Download Resume](https://github.com/john-danko-cyber/john-danko-cyber/raw/main/John_Danko_Resume.pdf)
