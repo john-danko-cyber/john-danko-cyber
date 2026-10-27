@@ -1,5 +1,7 @@
 # Hi, I'm John Danko 👋
 
+Portfolio: [john-danko.netlify.app](https://john-danko.netlify.app)
+
 Cybersecurity analyst near Philadelphia, focused on SOC and blue team work.
 
 - 🎓 B.S. in Computer Information Science, Cybersecurity specialization, Gwynedd Mercy University (Cum Laude, 2024)
