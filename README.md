@@ -1,6 +1,6 @@
 # John Danko
 
-Cybersecurity graduate near Philadelphia pursuing an SOC Analyst role, with hands-on practice in SIEM, log analysis, network traffic analysis, and incident response.
+Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst role, with hands-on practice in SIEM, log analysis, network traffic analysis, and incident response.
 
 - B.S. in Computer Information Science, Cybersecurity Specialization, Gwynedd Mercy University (Cum Laude, Fall 2024)
 - Competed in the DoD Cyber Sentinel Skills Challenge (Correlation One, June 2025) in forensics, malware and reverse engineering, networking and recon, OSINT, and web security
