@@ -33,6 +33,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 │   ├── <a href="https://github.com/john-danko-cyber/Internal-Security-Audit">Internal-Security-Audit</a>                     # Controls + compliance
 │   └── <a href="https://github.com/john-danko-cyber/parking-lot-usb-exercise">parking-lot-usb-exercise</a>                    # USB baiting assessment
 └── <b>Linux &amp; SQL</b>
+    ├── <a href="https://github.com/john-danko-cyber/tcpdump-packet-capture">tcpdump-packet-capture</a>                      # tcpdump capture + filters
     ├── <a href="https://github.com/john-danko-cyber/linux-file-permissions">linux-file-permissions</a>                      # chmod, least privilege
     ├── <a href="https://github.com/john-danko-cyber/linux-file-hashing">linux-file-hashing</a>                          # SHA-256 comparison
     ├── <a href="https://github.com/john-danko-cyber/linux-file-decryption">linux-file-decryption</a>                       # Caesar + OpenSSL AES-256
