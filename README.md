@@ -7,9 +7,11 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 - Wrote a malware incident response case study, SOC playbooks for five alert types, and incident reports from provided tcpdump and Wireshark logs
 - Building hands-on skills in Splunk and Google Security Operations through SOC labs
 
-**Tools:** Splunk, Google Security Operations, Microsoft Defender, Wireshark, tcpdump, Nmap, Nessus, Metasploit, Burp Suite, FTK Imager, Autopsy, John the Ripper, pfSense  
-**Frameworks:** NIST SP 800-61, NIST CSF, MITRE ATT&CK, Cyber Kill Chain  
-**Languages:** Python, Bash, C++, Java, SQL, HTML, JSON
+**Tools:** Splunk, Google Security Operations, Microsoft Defender, Wireshark, tcpdump, Nmap, Nessus, Metasploit, Burp Suite, FTK Imager, Autopsy, John the Ripper, pfSense, OpenSSL, MariaDB, Linux CLI (chmod, sudo, sha256sum), curl, ifconfig  
+**Frameworks:** NIST SP 800-61, NIST CSF, NIST SP 800-30, MITRE ATT&CK, Cyber Kill Chain, PASTA, STRIDE, OWASP Top 10, CIA Triad, AAA  
+**Compliance:** PCI DSS, GDPR, HIPAA, FedRAMP, FIPS 140-3  
+**Languages:** Python, Bash, C++, Java, SQL, HTML, JSON, Regex  
+**Familiar with (coursework):** Suricata, Zeek, VirusTotal, IBM QRadar, Elastic, Hashcat
 
 ## 🗂️ Project Tree
 
