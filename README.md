@@ -13,11 +13,6 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 
 ## 🗂️ Project Tree
 
-<img src="images/project-tree.png" alt="Color-coded tree of John Danko's cybersecurity projects, grouped into Incident Response, Network Traffic Analysis, Risk, Threats &amp; Vulnerabilities, and Linux &amp; SQL" width="100%">
-
-<details>
-<summary><b>Click to open project links</b></summary>
-
 <pre>
 <b>john-danko-cyber/</b>
 ├── <b>Incident Response</b>
@@ -42,7 +37,5 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
     ├── <a href="https://github.com/john-danko-cyber/linux-file-decryption">linux-file-decryption</a>                       # Caesar + OpenSSL AES-256
     └── <a href="https://github.com/john-danko-cyber/sql-filters-security-investigation">sql-filters-security-investigation</a>          # MariaDB login filters
 </pre>
-
-</details>
 
 📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber) | [Portfolio Website](https://john-danko.netlify.app) | [Download Resume](https://github.com/john-danko-cyber/john-danko-cyber/raw/main/John_Danko_Resume.pdf)
