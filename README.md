@@ -22,6 +22,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 │   ├── <a href="https://github.com/john-danko-cyber/cybersecurity-framework-incident-response">cybersecurity-framework-incident-response</a>   # NIST CSF, ICMP flood
 │   └── <a href="https://github.com/john-danko-cyber/access-control-incident-investigation">access-control-incident-investigation</a>       # Unauthorized payroll payment
 ├── <b>Network Traffic Analysis</b>
+│   ├── <a href="https://github.com/john-danko-cyber/wireshark-packet-analysis">wireshark-packet-analysis</a>                   # Wireshark display filters
 │   ├── <a href="https://github.com/john-danko-cyber/dns-icmp-traffic-analysis">dns-icmp-traffic-analysis</a>                   # tcpdump, DNS/ICMP
 │   ├── <a href="https://github.com/john-danko-cyber/website-redirect-malware-analysis">website-redirect-malware-analysis</a>           # tcpdump, malicious redirect
 │   └── <a href="https://github.com/john-danko-cyber/syn-flood-attack-analysis">syn-flood-attack-analysis</a>                   # Wireshark, SYN flood DoS
