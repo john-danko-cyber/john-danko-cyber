@@ -23,6 +23,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 │   ├── <a href="https://github.com/john-danko-cyber/incident-handlers-journal">incident-handlers-journal</a>                   # Ransomware incident, 5 W's
 │   ├── <a href="https://github.com/john-danko-cyber/virustotal-pyramid-of-pain">virustotal-pyramid-of-pain</a>                  # VirusTotal IoCs, Pyramid of Pain
 │   ├── <a href="https://github.com/john-danko-cyber/phishing-alert-triage">phishing-alert-triage</a>                       # Phishing playbook, ticket escalation
+│   ├── <a href="https://github.com/john-danko-cyber/incident-response-journal">incident-response-journal</a>                   # Full journal, links all 6 labs
 │   ├── <a href="https://github.com/john-danko-cyber/cybersecurity-framework-incident-response">cybersecurity-framework-incident-response</a>   # NIST CSF, ICMP flood
 │   └── <a href="https://github.com/john-danko-cyber/access-control-incident-investigation">access-control-incident-investigation</a>       # Unauthorized payroll payment
 ├── <b>Network Traffic Analysis</b>
