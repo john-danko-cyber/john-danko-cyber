@@ -49,7 +49,8 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
     ├── <a href="https://github.com/john-danko-cyber/python-functions">python-functions</a>                            # define/call functions, alerts, string concatenation
     ├── <a href="https://github.com/john-danko-cyber/python-parameters-and-return">python-parameters-and-return</a>                # sorted/max, parameters, return, login alert
     ├── <a href="https://github.com/john-danko-cyber/python-strings">python-strings</a>                              # str(), len(), concatenation, indexing, slicing, .index()
-    └── <a href="https://github.com/john-danko-cyber/python-lists">python-lists</a>                                # append/remove, parallel lists, login algorithm
+    ├── <a href="https://github.com/john-danko-cyber/python-lists">python-lists</a>                                # append/remove, parallel lists, login algorithm
+    └── <a href="https://github.com/john-danko-cyber/python-regular-expressions">python-regular-expressions</a>                  # regex with re.findall, device IDs, IP validation
 </pre>
 
 📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber) | [Portfolio Website](https://john-danko.netlify.app) | [Download Resume](https://github.com/john-danko-cyber/john-danko-cyber/raw/main/John_Danko_Resume.pdf)
