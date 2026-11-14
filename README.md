@@ -44,13 +44,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
     ├── <a href="https://github.com/john-danko-cyber/linux-file-hashing">linux-file-hashing</a>                          # SHA-256 comparison
     ├── <a href="https://github.com/john-danko-cyber/linux-file-decryption">linux-file-decryption</a>                       # Caesar + OpenSSL AES-256
     ├── <a href="https://github.com/john-danko-cyber/sql-filters-security-investigation">sql-filters-security-investigation</a>          # MariaDB login filters
-    ├── <a href="https://github.com/john-danko-cyber/python-conditional-statements">python-conditional-statements</a>               # if/elif/else, allow-list login checks
-    ├── <a href="https://github.com/john-danko-cyber/python-iterative-statements">python-iterative-statements</a>                 # for/while loops, IP allow list, employee IDs
-    ├── <a href="https://github.com/john-danko-cyber/python-functions">python-functions</a>                            # define/call functions, alerts, string concatenation
-    ├── <a href="https://github.com/john-danko-cyber/python-parameters-and-return">python-parameters-and-return</a>                # sorted/max, parameters, return, login alert
-    ├── <a href="https://github.com/john-danko-cyber/python-strings">python-strings</a>                              # str(), len(), concatenation, indexing, slicing, .index()
-    ├── <a href="https://github.com/john-danko-cyber/python-lists">python-lists</a>                                # append/remove, parallel lists, login algorithm
-    └── <a href="https://github.com/john-danko-cyber/python-regular-expressions">python-regular-expressions</a>                  # regex with re.findall, device IDs, IP validation
+    └── <a href="https://github.com/john-danko-cyber/python-security-automation">python-security-automation</a>                  # 7 Python labs: conditionals, loops, functions, strings, lists, regex
 </pre>
 
 📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber) | [Portfolio Website](https://john-danko.netlify.app) | [Download Resume](https://github.com/john-danko-cyber/john-danko-cyber/raw/main/John_Danko_Resume.pdf)
