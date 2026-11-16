@@ -44,7 +44,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
     ├── <a href="https://github.com/john-danko-cyber/linux-file-hashing">linux-file-hashing</a>                          # SHA-256 comparison
     ├── <a href="https://github.com/john-danko-cyber/linux-file-decryption">linux-file-decryption</a>                       # Caesar + OpenSSL AES-256
     ├── <a href="https://github.com/john-danko-cyber/sql-filters-security-investigation">sql-filters-security-investigation</a>          # MariaDB login filters
-    └── <a href="https://github.com/john-danko-cyber/python-security-automation">python-security-automation</a>                  # 8 Python labs: conditionals, loops, functions, strings, lists, regex, file I/O
+    └── <a href="https://github.com/john-danko-cyber/python-security-automation">python-security-automation</a>                  # 9 Python labs: conditionals, loops, functions, strings, lists, regex, file I/O, allow-list automation
 </pre>
 
 📫 [LinkedIn](https://www.linkedin.com/in/john-danko-cyber) | [Portfolio Website](https://john-danko.netlify.app) | [Download Resume](https://github.com/john-danko-cyber/john-danko-cyber/raw/main/John_Danko_Resume.pdf)
