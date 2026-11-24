@@ -20,6 +20,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 ├── <b>Incident Response</b>
 │   ├── <a href="https://github.com/john-danko-cyber/SOC-Incident-Response-Playbook">SOC-Incident-Response-Playbook</a>              # NIST 800-61 + MITRE ATT&amp;CK playbooks
 │   ├── <a href="https://github.com/john-danko-cyber/SOC-Workstation-Triage-Lab">SOC-Workstation-Triage-Lab</a>                  # CompTIA course lab, Wazuh SIEM triage, false positive
+│   ├── <a href="https://github.com/john-danko-cyber/Attack-Surface-Assessment-Lab">Attack-Surface-Assessment-Lab</a>               # CompTIA Security+ course lab, email, host, network border
 │   ├── <a href="https://github.com/john-danko-cyber/Malware-Incident-Response">Malware-Incident-Response</a>                   # DLL sideloading case study
 │   ├── <a href="https://github.com/john-danko-cyber/incident-handlers-journal">incident-handlers-journal</a>                   # Ransomware incident, 5 W's
 │   ├── <a href="https://github.com/john-danko-cyber/virustotal-pyramid-of-pain">virustotal-pyramid-of-pain</a>                  # VirusTotal IoCs, Pyramid of Pain
