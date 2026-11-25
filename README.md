@@ -43,7 +43,8 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 │   ├── <a href="https://github.com/john-danko-cyber/parking-lot-usb-exercise">parking-lot-usb-exercise</a>                    # USB baiting assessment
 │   └── <a href="https://github.com/john-danko-cyber/file-integrity-verification">file-integrity-verification</a>                 # CompTIA Security+ course lab, PowerShell MD5 hash comparison
 ├── <b>Security Architecture</b>
-│   └── <a href="https://github.com/john-danko-cyber/bitlocker-drive-encryption">bitlocker-drive-encryption</a>                  # CompTIA Security+ course lab, BitLocker FDE with a TPM
+│   ├── <a href="https://github.com/john-danko-cyber/bitlocker-drive-encryption">bitlocker-drive-encryption</a>                  # CompTIA Security+ course lab, BitLocker FDE with a TPM
+│   └── <a href="https://github.com/john-danko-cyber/bitlocker-tpm-activation">bitlocker-tpm-activation</a>                    # CompTIA Security+ course lab, TPM activation and BitLocker FDE
 └── <b>Linux, SQL &amp; Python</b>
     ├── <a href="https://github.com/john-danko-cyber/tcpdump-packet-capture">tcpdump-packet-capture</a>                      # tcpdump capture + filters
     ├── <a href="https://github.com/john-danko-cyber/linux-file-permissions">linux-file-permissions</a>                      # chmod, least privilege
