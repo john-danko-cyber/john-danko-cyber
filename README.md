@@ -20,6 +20,7 @@ Cybersecurity graduate based in Greater Philadelphia pursuing an SOC Analyst rol
 ├── <b>Incident Response</b>
 │   ├── <a href="https://github.com/john-danko-cyber/SOC-Incident-Response-Playbook">SOC-Incident-Response-Playbook</a>              # NIST 800-61 + MITRE ATT&amp;CK playbooks
 │   ├── <a href="https://github.com/john-danko-cyber/SOC-Workstation-Triage-Lab">SOC-Workstation-Triage-Lab</a>                  # CompTIA course lab, Wazuh SIEM triage, false positive
+│   ├── <a href="https://github.com/john-danko-cyber/SOC-Triage-App">SOC-Triage-App</a> | [Live demo](https://soc-triage-app.vercel.app) # Web app that triages raw security logs and scores incidents with CISA NCISS severity levels
 │   ├── <a href="https://github.com/john-danko-cyber/Attack-Surface-Assessment-Lab">Attack-Surface-Assessment-Lab</a>               # CompTIA Security+ course lab, email, host, network border
 │   ├── <a href="https://github.com/john-danko-cyber/Phishing-Email-Triage-Lab">Phishing-Email-Triage-Lab</a>                   # CompTIA Security+ course lab, keep or delete phishing emails
 │   ├── <a href="https://github.com/john-danko-cyber/Malware-Incident-Response">Malware-Incident-Response</a>                   # DLL sideloading case study
